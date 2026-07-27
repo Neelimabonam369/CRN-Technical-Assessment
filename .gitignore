@@ -1,0 +1,1 @@
+ bin/ obj/ *.user .vs/ *.db appsettings.Development.json .env 
