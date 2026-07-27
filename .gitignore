@@ -1,1 +1,14 @@
- bin/ obj/ *.user .vs/ *.db appsettings.Development.json .env 
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
